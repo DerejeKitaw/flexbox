@@ -1,8 +1,9 @@
 @media(min-width:468px) {
     .container-1 {
         display: flex;
-        /* align-items:flex-start; */
-        align-items:flex-end;
+        /* align-items:flex-start; 
+        align-items:flex-end;*/
+        align-items: center; /*default is stretch*/
     }
     .container-1 div {
         border: 1px #ccc solid;
