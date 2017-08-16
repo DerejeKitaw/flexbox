@@ -3,7 +3,9 @@
         display: flex;
         /* align-items:flex-start; 
         align-items:flex-end;*/
-        align-items: center; /*default is stretch*/
+        /* align-items: center; default is stretch*/
+        flex-direction: column;
+        
     }
     .container-1 div {
         border: 1px #ccc solid;
