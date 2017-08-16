@@ -38,6 +38,8 @@
     order:3;
 }
 
-.container-2-box {}
+.container-2-box {
+    width:20%;
+}
 
 .container-3-box {}
